@@ -15,5 +15,5 @@ server.get('/', function(req, res) {
 });
 
 http.listen(3000, function() {
-	console.log("Hi Anna!!!");
+	console.log("Hi Anna, listening on port 3000");
 })
